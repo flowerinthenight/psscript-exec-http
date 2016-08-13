@@ -28,3 +28,7 @@ PSScriptExecHttp.exe --host localhost --url /runscript --query "param1:value1^pa
 ```
 
 The sample `runscript.ps1` file accepts three parameters, $Param1, $Param2, and $Param3, prints them and then returns the printed output back to client. You can edit the script however you want with different parameters. And to provide those parameters from the client, use the `--query` option.
+
+# License
+
+[The MIT License](./LICENSE.md)

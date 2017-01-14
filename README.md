@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a6q5c278d3vn66dn/branch/master?svg=true)](https://ci.appveyor.com/project/flowerinthenight/psscript-exec-http/branch/master)
+
 # PSScriptExecHttp
 
 A simple client/server tool for executing powershell script over http. You can run the tool as the server, which in turn will run the predefined powershell script `runscript.ps1` upon request. You can also use the same tool as a client to request a running server to execute the script.
